@@ -30,8 +30,6 @@ bash
 pip install --upgrade pip
 Clone the repository:
 
-bash
-git clone https://github.com/yourusername/byte-cruncher.git
 cd byte-cruncher
 Usage
 Run the application:
